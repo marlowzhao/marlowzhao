@@ -1,6 +1,6 @@
 ### Hi, I am Jinsheng 👋
 
-<p align="center" style="font-size: 3rem"><strong>Full-stack web developer based in Berlin</strong></p>
+<h2><strong>Full-stack web developer based in Berlin</strong></h2>
 
 - :books: currently working on Rails and React-based projects
 - 🌱 currently learning <strong>React</strong>, <strong>JavaScript</strong> and <strong>Ruby on Rails</strong>
@@ -9,7 +9,7 @@
 - :camera_flash: enthusiastic about photography, post-war history and engraving
 
 
-<p><strong>Tech Stack<strong></p>
+<h2><strong>Tech Stack<strong></h2>
 <div>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
   
