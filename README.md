@@ -2,9 +2,9 @@
 
 <h3><strong>A full stack web developer based in Berlin, Germany</strong></h3>
 
+- :rocket: completed the immersive Web Development bootcamp at Le Wagon in early 2022
 - :books: currently working on Rails and React-based projects
 - 🌱 currently learning <strong>React</strong>, <strong>JavaScript</strong> and <strong>Ruby on Rails</strong>
-- :rocket: completed the immersive Web Development bootcamp
 - :book: read in Mandarin, English, German and Russian
 - :camera_flash: enthusiastic about photography, post-war history and engraving
 
