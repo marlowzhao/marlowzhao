@@ -9,7 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Ruby, OOP, Rails
 - 📫 How to reach me: marlowzhao@163.com
 - 😄 Pronouns: ...
-- ⚡ Other facts: forever a language student and translator, half-arse photographer, interested in post-war history,
--->
-Languages and Tools
-
+- ⚡ Other facts: forever a language student and translator, half-arse photographer, interested in post-war history
