@@ -1,15 +1,15 @@
-### Hi, I am Jinsheng 👋
+### <h1>Hi, I am Jinsheng 👋</h1>
 
-<h2><strong>Full-stack web developer based in Berlin</strong></h2>
+<h3><strong>A full stack web developer based in Berlin, Germany</strong></h3>
 
 - :books: currently working on Rails and React-based projects
 - 🌱 currently learning <strong>React</strong>, <strong>JavaScript</strong> and <strong>Ruby on Rails</strong>
 - :rocket: completed the 9-week Web Development bootcamp with a group project
-- :speech_balloon: read :book: in Mandarin, English, German and Russian
+- :book: read in Mandarin, English, German and Russian
 - :camera_flash: enthusiastic about photography, post-war history and engraving
 
 
-<h2><strong>Tech Stack<strong></h2>
+<h3><strong>Tech Stack<strong></h3>
 <div>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
   
@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -31,4 +33,6 @@
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
 </div>
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
