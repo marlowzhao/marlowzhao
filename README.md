@@ -5,8 +5,7 @@
 - :rocket: completed the immersive Web Development bootcamp at Le Wagon in early 2022
 - :books: currently working on Rails and React-based projects
 - 🌱 currently learning <strong>React</strong>, <strong>JavaScript</strong> and <strong>Ruby on Rails</strong>
-- :book: read in Mandarin, English, German and Russian
-- :camera_flash: enthusiastic about photography, post-war history and engraving
+- :camera_flash: enthusiastic about photography, post-war history and reading in Mandarin, English, German and Russian
 
 
 <h3><strong>Tech Skillset<strong></h3>
