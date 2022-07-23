@@ -4,7 +4,7 @@
 
 - :rocket: completed the immersive Web Development bootcamp at Le Wagon in early 2022
 - :books: currently working on Rails and React-based projects
-- 🌱 currently learning <strong>React</strong>, <strong>JavaScript</strong> and <strong>Ruby on Rails</strong>
+- 🌱 currently learning <strong>React</strong>, <strong>JavaScript</strong> and <strong>Node.js</strong>
 - :camera_flash: enthusiastic about photography, art of engraving, and reading in Mandarin, English, German and Russian
 
 
@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
    
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
  
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/>
 
